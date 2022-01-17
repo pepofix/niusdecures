@@ -195,7 +195,7 @@ color: black;
 }
 @media (max-width: 400px) {
   .fullscreen-bg {
-    background: url('https://niusdecures/img/silenci.jpg') center center / cover no-repeat;
+    background: url('https://niusdecures/img/niusdecures.jpg') center center / cover no-repeat;
   }
 
   .fullscreen-bg__video {
