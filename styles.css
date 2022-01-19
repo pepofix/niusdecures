@@ -195,10 +195,10 @@ color: black;
 }
 @media (max-width: 400px) {
   .fullscreen-bg {
-    background: url('https://niusdecures/img/niusdecures.jpg') center center / cover no-repeat;
+    background: url('https://niusdecures.org/img/niusdecures.jpg') center center / cover no-repeat;
   }
 
   .fullscreen-bg__video {
-    background: url('https://niusdecures/video/niusdecures_desenfoc.mp4') center center / cover no-repeat;
+    background: url('https://niusdecures.org/video/niusdecures_desenfoc.mp4') center center / cover no-repeat;
   }
 }
